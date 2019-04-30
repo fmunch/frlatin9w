@@ -18,38 +18,42 @@ French latin9 keyboard layout for Windows
 
 #### Main layout
 
-![frlatin9w](images/keyboard-layout.png)
+![main layout](images/keyboard-layout.png)
 
 #### Acute
 
-![frlatin9w](images/keyboard-layout-acute.png)
+![acute](images/keyboard-layout-acute.png)
 
 #### Grave
 
-![frlatin9w](images/keyboard-layout-grave.png)
+![grave](images/keyboard-layout-grave.png)
 
 #### Diaeresis
 
-![frlatin9w](images/keyboard-layout-diaeresis.png)
+![diaeresis](images/keyboard-layout-diaeresis.png)
 
 #### Circumflex
 
-![frlatin9w](images/keyboard-layout-circumflex.png)
+![circumflex](images/keyboard-layout-circumflex.png)
 
 #### Cedilla
 
-![frlatin9w](images/keyboard-layout-cedilla.png)
+![cedilla](images/keyboard-layout-cedilla.png)
 
 #### Tilde
 
-![frlatin9w](images/keyboard-layout-tilde.png)
+![tilde](images/keyboard-layout-tilde.png)
 
 #### Ring
 
-![frlatin9w](images/keyboard-layout-ring.png)
+![ring](images/keyboard-layout-ring.png)
+
+#### Mathematics
+
+![mathematics](images/keyboard-layout-mathematics.png)
 
 #### Greek alphabet
 
-![frlatin9w](images/keyboard-layout-greek.png)
+![greek alphabet](images/keyboard-layout-greek.png)
 
 Images from [https://github.com/ijprest/keyboard-layout-editor](https://github.com/ijprest/keyboard-layout-editor).
