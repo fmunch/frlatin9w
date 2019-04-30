@@ -56,4 +56,8 @@ French latin9 keyboard layout for Windows
 
 ![greek alphabet](images/keyboard-layout-greek.png)
 
+#### Misc
+
+![misc](images/keyboard-layout-misc.png)
+
 Images from [https://github.com/ijprest/keyboard-layout-editor](https://github.com/ijprest/keyboard-layout-editor).
